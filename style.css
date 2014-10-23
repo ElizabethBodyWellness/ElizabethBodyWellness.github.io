@@ -4,7 +4,6 @@ body {
 	background-color: #54596A;
 	background-repeat: repeat-x;
 	background-size: auto;
-
 }
 
 h1 {
@@ -13,17 +12,16 @@ h1 {
 	left: 60px;
 }
 
-hr { width: 40px;
+hr { 
+	width: 40px;
 	position: fixed;
 	top: 345px;
 	left: 60px;
-	border: 1px solid #FD6E63;
-	
+	border: 1px solid #FD6E63;	
 }
 
-
-
-p {	font-family: Helvetica, sans-serif;
+p {	
+	font-family: Helvetica, sans-serif;
 	font-size: 20px;
 	color: white;
 	position: fixed;
