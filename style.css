@@ -10,13 +10,13 @@ body {
 h1 {
 	position: fixed;
 	top: 250px;
-	left: 120px;
+	left: 60px;
 }
 
 hr { width: 40px;
 	position: fixed;
 	top: 345px;
-	left: 120px;
+	left: 60px;
 	border: 1px solid #FD6E63;
 	
 }
@@ -28,12 +28,12 @@ p {	font-family: Helvetica, sans-serif;
 	color: white;
 	position: fixed;
 	top: 358px;
-	left: 120px;
+	left: 60px;
 }
 
 #tealbutton {
 	position: fixed;
 	top: 440px;
-	left: 120px;
+	left: 60px;
 }
 
