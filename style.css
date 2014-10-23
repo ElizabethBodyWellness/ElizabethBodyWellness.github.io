@@ -1,6 +1,6 @@
 body {
-	background-image: url("ElizabethBodyWellness.github.io/images/background.jpg"),
-	url("ElizabethBodyWellness.github.io/images/stripes.png");
+	background-image: url("http://ElizabethBodyWellness.github.io/images/background.jpg"),
+	url("http://ElizabethBodyWellness.github.io/images/stripes.png");
 	background-color: #535a6a;
 	background-repeat: repeat-x;
 	background-size: auto;
@@ -38,16 +38,3 @@ p {	font-family: 'Lucida Sans Unicode',monospace;
 	left: 50px;
 }
 
-background
-
-font-size
-font-family
-color
-height
-width
-padding
-Align text using:
-
-margin
-font-weight
-line-height
