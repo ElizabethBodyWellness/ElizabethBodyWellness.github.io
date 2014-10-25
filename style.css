@@ -6,32 +6,28 @@ body {
 	background-size: auto;
 }
 
-h1 {
-	position: fixed;
-	top: 250px;
-	left: 60px;
+.logo {
+	margin-top: 250px;
+	margin-left: 60px;
 }
 
 hr { 
 	width: 40px;
-	position: fixed;
-	top: 345px;
-	left: 60px;
-	border: 1px solid #FD6E63;	
+	border: 1px solid #FD6E63;
+	margin-top: 345px; 
+	margin-left: 60px; 
 }
 
 p {	
 	font-family: Helvetica, sans-serif;
 	font-size: 20px;
 	color: white;
-	position: fixed;
-	top: 368px;
-	left: 60px;
+	margin-top: 358px;
+	margin-left: 60px;
 }
 
 #tealbutton {
-	position: fixed;
-	top: 440px;
-	left: 60px;
+	 margin-top: 440px;
+	 margin-left: 60px;
 }
 
