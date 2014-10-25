@@ -14,7 +14,7 @@ body {
 hr { 
 	width: 40px;
 	border: 1px solid #FD6E63;
-	margin-top: 25px; 
+	margin-top: 250px; 
 	margin-left: 60px; 
 }
 
@@ -22,12 +22,12 @@ p {
 	font-family: Helvetica, sans-serif;
 	font-size: 20px;
 	color: white;
-	margin-top: 358px;
+	margin-top: 250px;
 	margin-left: 60px;
 }
 
 #tealbutton {
-	 margin-top: 440px;
+	 margin-top: 250px;
 	 margin-left: 60px;
 }
 
