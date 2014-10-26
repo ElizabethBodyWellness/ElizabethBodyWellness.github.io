@@ -9,13 +9,13 @@ body {
 .logo {
 	margin-top: 250px;
 	margin-left: 60px;
-	margin-bottom: -25px;
+	margin-bottom: -20px;
 }
 
 hr { 
 	width: 40px;
 	border: 1px solid #FD6E63;
-	margin-top: 50px; 
+	margin-top: 40px; 
 	margin-left: 60px; 
 }
 
@@ -23,14 +23,13 @@ p {
 	font-family: Helvetica, sans-serif;
 	font-size: 20px;
 	color: white;
-	margin-top: 50px;
+	margin-top: 40px;
 	margin-left: 60px;
-	margin-bottom: 50px;
+	margin-bottom: 40px;
 }
 
 #tealbutton {
-	 margin-top: 50px;
+	 margin-top: 40px;
 	 margin-left: 60px;
-	 margin-bottom: 50px;
 }
 
