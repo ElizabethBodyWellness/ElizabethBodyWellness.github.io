@@ -1,0 +1,31 @@
+body {
+	background: url("images/Flora-Atrium.jpg");
+	background-position: center;
+	background-size: 50%;
+	back
+}
+
+h2{
+	font-family: Tahoma, sans-serif;
+	font-size: 1.5em;
+	margin-top: 100px;
+	margin-left: 200px;
+}
+
+p {	
+	font-family: Georgia, serif;
+	font-size: auto;
+	color: auto;
+	margin-top: 250px;
+	margin-left: 250px;
+	margin-bottom: ;
+}
+
+#background {
+	background-position: fixed
+}
+
+#logo {
+	 margin-top: ;
+	 margin-left: ;
+}
