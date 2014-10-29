@@ -1,9 +1,9 @@
 body {
-	background: url("images/Flora-Atrium.jpg");
-	background-position: center;
-	background-size: 50%;
-	back
-}
+	background: url("images/Flora-Atrium-resized.jpg");
+	background-position: fill;
+	background color: #000000;
+	background-repeat: repeat-x;
+}	
 
 h2{
 	font-family: Tahoma, sans-serif;
@@ -19,13 +19,3 @@ p {
 	margin-top: 250px;
 	margin-left: 250px;
 	margin-bottom: ;
-}
-
-#background {
-	background-position: fixed
-}
-
-#logo {
-	 margin-top: ;
-	 margin-left: ;
-}
