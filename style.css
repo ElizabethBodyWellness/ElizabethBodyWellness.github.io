@@ -1,0 +1,29 @@
+
+body{
+	font-family: 'Georgia', serif;
+	font-size:18px;
+	text-align: center;
+	background: #DEE2AF; 
+}
+
+hr { 	
+	width: 155px;
+	border: 1px solid #000000;
+	text-align: center;
+	margin-top: 50px;
+}
+
+h1 {
+	color: #197F27;
+	font-size: 1.75em;
+
+}
+
+p {
+	font-family: Georgia, serif;
+	margin-top: 55px;
+}
+
+#logo {
+	margin-top: 45px;
+}
