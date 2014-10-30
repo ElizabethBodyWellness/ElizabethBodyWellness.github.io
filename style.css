@@ -10,14 +10,13 @@ hr {
 	width: 155px;
 	border: 1px solid #000000;
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 35px;
 }
 
 h1 {
 	color: #197F27;
 	font-size: 1.5em;
 	margin-top: 15px;
-
 }
 
 p {
@@ -27,4 +26,5 @@ p {
 
 #logo {
 	margin-top: 45px;
+	width: 400px;
 }
