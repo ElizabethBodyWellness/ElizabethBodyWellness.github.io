@@ -1,0 +1,92 @@
+body {
+    background: #eeeeee
+    font-family:  "Trebuchet MS",Verdana,Arial,serif;
+    margin: 20px;
+    }
+
+h1   {  font-family:Georgia,san-serif;
+        }
+
+p    {  font-family:Tahoma,serif;}
+
+h2,h3,h4,h5,h6 {
+    font-family:Georgia,san-serif;
+    }
+
+/* this is a COMMENT */
+
+/* 
+<p>
+To put it more simply, this 
+<span class=”greenboldtext”>sentence</span> 
+you are reading is styled in my CSS file by the following.
+</p>
+ goes with the following (dot)term - which is a 'class selector' 
+Note: you can use a CLASS selector as often as you wish.
+Note: give the name a clarity
+
+Classes are called in the CSS with a .  
+*/
+
+.greenboldtext
+{ 
+  font-size: small; 
+  color: #008080;
+  font-weight: bold;
+    }
+
+
+/* 
+ID's can only be used once in an HTML sheet
+call ID's with <div id="whateveryoucalledit">  everything inside here </div>
+
+ID's are called in the CSS with a #
+  */
+
+#whateveryoucalledit
+  {  width: 80%;
+     margin: auto;
+     padding; 20px;
+     border:   1px solid #666;
+     background: #ffffff;
+   }
+
+
+/* 
+the id selector begins with a (#) number sign 
+the class selector begins with a (.) period
+ */
+
+/*
+I intend to use ID's (use div to call them in html) for each section of the vertical site
+- like separate pages, so that when a new off-shoot site is needed, it can be used again there.
+
+To this point, I have been using www.cssbasics.com/ to learn these things
+*/
+
+/*
+The whole content of a page can be one div
+This is the idea I just offered - of having a secondary page with the theme from the vertical site.
+
+You can use both classes and IDs with a division tag to style sections of your website.
+DIV's cause a line break.
+Spans do not
+*/
+
+<body>
+<div id="whateveryoucalledit">
+
+</div>
+</body>
+
+
+/*
+Spans are in-line division.  no line break is created when a span is called.
+
+Example for the following:
+This text is <span class="italic">emphasized by being italic </span>
+*/
+
+.italic {
+   font-style:italic;
+        }
